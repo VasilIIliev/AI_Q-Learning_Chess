@@ -1,4 +1,4 @@
-This project isThis project showcases two AI agents battling each other in chess using Q-Learning. Each move and its reward are recorded in a q_table.txt file, which helps the agents refine their strategies over time. The program is written in Python and demonstrates reinforcement learning applied to a complex, competitive game environment.
+This project showcases two AI agents battling each other in chess using Q-Learning. Each move and its reward are recorded in a q_table.txt file, which helps the agents refine their strategies over time. The program is written in Python and demonstrates reinforcement learning applied to a complex, competitive game environment.
 
 ✨ Features:
 
