@@ -1,13 +1,20 @@
-This project showcases two AI agents battling each other in chess using Q-Learning. Each move and its reward are recorded in a q_table.txt file, which helps the agents refine their strategies over time. The program is written in Python and demonstrates reinforcement learning applied to a complex, competitive game environment.
+# Q-Learning Chess AI
 
-✨ Features:
+Python-based chess simulation using reinforcement learning principles.
 
-Two AI agents playing chess head-to-head.
+## Overview
+This project implements two AI agents playing chess against each other using Q-Learning. The agents improve decision-making over time by updating a shared Q-table based on rewards and board states.
 
-Q-Learning implementation to improve decision-making.
+## Features
+- AI vs AI chess gameplay
+- Q-Learning implementation
+- State persistence using pickle
+- Reward-based move evaluation
+- Chessboard visualization with Pygame
+- Exploration vs exploitation strategy
 
-Persistent storage of move outcomes in q_table.txt.
-
-A clear example of reinforcement learning in action.
-
-🚀 Great for anyone interested in AI, reinforcement learning, or experimenting with self-learning game agents.
+## Technologies
+- Python
+- Pygame
+- python-chess
+- Reinforcement Learning
